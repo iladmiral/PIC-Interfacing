@@ -1,3 +1,9 @@
+/* 
+file : main.c 
+author : Khalid BENEDDINE
+
+*/
+
 #include <xc.h>
 #include <stdint.h>
 #include "Config.h"

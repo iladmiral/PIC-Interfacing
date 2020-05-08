@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: Home
+ * Author: Khalid BENEDDINE
  *
  * Created on 15 janvier 2020, 14:56
  */

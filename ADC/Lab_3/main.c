@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: Home
+ * Author: Khalid BENEDDINE
  *
  * Created on 20 janvier 2020, 21:42
  */
@@ -10,7 +10,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include "Config.h"
-//Déclarations
+//Dï¿½clarations
 #define _XTAL_FREQ 4000000
 #define Baud 9600
 
